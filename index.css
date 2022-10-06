@@ -68,7 +68,7 @@ footer{
   font-size: large;
 }
 
- @media (max-width: 600px){
+ @media (max-width: 720px){
 
   footer{
     position: relative;
